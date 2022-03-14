@@ -1,0 +1,6 @@
+# Tipos de archivos o directorios
+*.csv
+
+#Nombres Archivos 
+delegaciones.csv
+deportistas.csv

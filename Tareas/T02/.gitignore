@@ -1,0 +1,9 @@
+*.pdf
+*sprites
+*songs
+* ventana_inicial.ui
+*ranking.txt
+*sprites/
+*songs/
+*__pycache__
+*__pycache__/
